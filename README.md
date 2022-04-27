@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @satayyeb
-- 🎓 I'm a Computer Engineer student at Sharif University of Technology now.
+- 🎓 I'm a Computer Engineering student at Sharif University of Technology now.
 - 📒 I want to learn JavaScript. I think it is a powerful tool for me.
 - 💻 You might like to see my [CV website](http://ce.sharif.edu/~tayyeb/)
 - 💯 I love discovering new things.
