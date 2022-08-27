@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @satayyeb
 - 🎓 I'm a Computer Engineering student at Sharif University of Technology now.
 - 📒 I want to learn JavaScript. I think it is a powerful tool for me.
-- 💻 You might like to see my [CV website](http://ce.sharif.edu/~tayyeb/)
+- 💻 You might like to see my [CV website](https://satayyeb.github.io/my_site/)
 - 💯 I love discovering new things.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=satayyeb&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
