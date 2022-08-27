@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @satayyeb
-- 🎓 I'm a Computer Engineering student at Sharif University of Technology now.
+- 👋 Hi, I’m Tayyeb.
+- 🎓 I am a Computer Engineering student at Sharif University of Technology now.
+- 🎯 I am currently working on the third version of my [RFID door opener](https://github.com/satayyeb/RFID-door-opener) project.
 - 📒 I want to learn JavaScript. I think it is a powerful tool for me.
 - 💻 You might like to see my [CV website](https://satayyeb.github.io/my_site/)
 - 💯 I love discovering new things.
