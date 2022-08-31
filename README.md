@@ -5,9 +5,10 @@
 - 💻 You might like to see my [CV website](https://satayyeb.github.io/my_site/)
 - 💯 I love discovering new things.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=satayyeb&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=DD58C1&multiline=true&lines=Currently+coding+for+fun...;but+also+for+a+better+future!)](https://github.com/DenverCoder1/readme-typing-svg)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=satayyeb&show_icons=true&theme=jolly)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=DE58C1&multiline=true&lines=Currently+coding+for+fun...;but+also+for+a+better+future!)](https://github.com/DenverCoder1/readme-typing-svg)
 
 
 
