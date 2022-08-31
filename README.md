@@ -6,8 +6,6 @@
 - 💯 I love discovering new things.
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=satayyeb&show_icons=true&theme=jolly)
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=DE58C1&multiline=true&lines=Currently+coding+for+fun...;but+also+for+a+better+future!)](https://github.com/DenverCoder1/readme-typing-svg)
 
 
