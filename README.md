@@ -10,9 +10,6 @@
  
 ### 👋 Hi, I’m Tayyeb. A Computer Engineering student at Sharif University of Technology.
 - 💻 Currently working on the third version of my [RFID door opener](https://github.com/satayyeb/RFID-door-opener) project.
-- 🌐 You might like to see my [CV website](https://satayyeb.github.io/my_site/)
-- 💯 I love discovering new things.
-
 <br>
 
 
