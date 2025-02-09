@@ -8,8 +8,7 @@
 
 <br/>
  
-### 👋 Hi, I’m Tayyeb. A Computer Engineering student at Sharif University of Technology.
-- 💻 Currently working on the third version of my [RFID door opener](https://github.com/satayyeb/RFID-door-opener) project.
+### 👋 Hi, I’m Sayyed Ali Tayyeb.
 <br>
 
 
